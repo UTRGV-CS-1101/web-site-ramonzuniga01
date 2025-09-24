@@ -2,12 +2,17 @@ h1{
     text-align: center;
    
 }
-h2{
-    text-indent: 2%;
-    background-color: aqua;
-    width: 30%;
+
+.Funfact1 {
+background-color: aqua;
+    width: 50%;
 }
-p{
+.Funfact2 {
     background-color: aqua;
-    width: 30%;
+    width: 50%;
+}
+.Funfact3 {
+    background-color: aqua;
+    width: 50%;
+  
 }
