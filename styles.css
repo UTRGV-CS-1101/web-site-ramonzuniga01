@@ -2,19 +2,6 @@ h1{
     text-align: center;
    
 }
-
-.title {
-background-color: aqua;
-    width: 30%;
-}
-.message {
-    background-color: greenyellow;
-    width: 40%;
-}
-img{
-    height: 40%;
-    width: 20%;
-}
 a{
     text-align: right;
 }
